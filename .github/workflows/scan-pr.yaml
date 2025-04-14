@@ -23,7 +23,7 @@ jobs:
 
       - uses: jfrog/frogbot@v2
         with:
-          oidc-provider-name: pavan
+          oidc-provider-name: umac
           oidc-audience: frogoidc
           
         env:
