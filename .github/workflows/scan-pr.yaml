@@ -23,7 +23,7 @@ jobs:
 
       - uses: jfrog/frogbot@v2
         with:
-          oidc-provider-name: destgithub
+          oidc-provider-name: pavan
           oidc-audience: frogoidc
           
         env:
